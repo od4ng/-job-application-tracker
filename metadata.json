@@ -1,0 +1,6 @@
+{
+  "name": "JobTracker",
+  "description": "A private, simple job tracker for students and graduates to organize applications, interviews, test deadlines, and progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
